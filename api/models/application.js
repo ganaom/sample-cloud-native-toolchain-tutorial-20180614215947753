@@ -27,7 +27,7 @@ var APPS = [{
   id: 1234,
   name: 'Open Toolchain',
   lastUpdated: '2015-07-10T14:48:00',
-  status: 'online',
+  status: 'onlin',
 }, {
   id: 1235,
   name: 'BizDevOps',
